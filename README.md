@@ -1,1 +1,1 @@
-На vercel не деплоится. В скором времени починю
+https://pizza-react-redux-git-main-antons-projects-de68482c.vercel.app/
